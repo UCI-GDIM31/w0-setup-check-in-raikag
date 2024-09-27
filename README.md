@@ -5,19 +5,17 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 ## Introduction
 
-1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
-
+1. My pronouns are she/her, I am interested in developing games through coding as well as the visual/design aspect of things. I love playing action-adventure games like The Last of Us, The Walking Dead, Detroit: Become human, and Until Dawn. I am taking this class so that I can improve my coding skills to become more fluent.
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
+    - [x] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
-3. What are you hoping to get out of this class?
-4. What, if anything, are you nervous about for this class?
-
+3. I am hoping to get better at coding to make it easier for me to translate my thoughts and ideas for games into code.
+4. I am a little bit nervous about jumping into new material right away, but I'm sure after a bit of adjusting and learning everything will be fine.
 ## Prior Experience
 
 The next questions ask about what (if any) prior experience you have. This class assumes students have no prior knowledge, so don’t worry if you have 0 experience programming or with game development! Just write 0 or N/A under the headers. These questions are JUST for us to get an overall picture of the class's experience level so that we can make sure to be meeting you all where you are.
@@ -25,10 +23,13 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
+(Python ✔️)
 
 2. Game development (any engine)
+(AP csp)
 
 3. Unity
+0
 
 ### Programming & Game Development Concepts
 
@@ -40,14 +41,19 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
+N/A
 
 2. Scope management
+N/A
 
 3. Iteration
+Like a loop, repeating steps or instructions.
 
 4. Object-Oriented programming
+N/A
 
 5. Model-View-Controller architecture
+N?A
 
 ## Complete!
 
