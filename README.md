@@ -53,7 +53,7 @@ Like a loop, repeating steps or instructions.
 N/A
 
 5. Model-View-Controller architecture
-N?A
+N/A
 
 ## Complete!
 
